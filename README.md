@@ -27,6 +27,29 @@ This commands includes
 <BR>
 
 ## Output
+### ping
+![image](https://github.com/user-attachments/assets/f8fc6877-fecb-41d3-aa37-373ec1b7e636)
+
+
+### tracert
+![image](https://github.com/user-attachments/assets/c0d11e15-108f-4e08-8e02-81e4757f407b)
+
+
+### ipconfig
+![image](https://github.com/user-attachments/assets/f8643a82-01eb-490f-a9fa-4eed8aee3072)
+
+
+### ftp
+![image](https://github.com/user-attachments/assets/683ca53f-6c53-48b9-87bf-9331145e777a)
+
+
+### netstat
+![image](https://github.com/user-attachments/assets/4ca3f809-673c-4d42-837c-64a879493320)
+
+
+### nslookup
+![image](https://github.com/user-attachments/assets/7e275ae8-d413-4411-a7f4-f1e1f1eceee7)
+
 
 ## Result
 Thus Execution of Network commands Performed 
